@@ -1,4 +1,4 @@
-package ru.vsu.cs.fedoseev.classes;
+package ru.vsu.cs.vlasov.classes;
 
 import java.util.Date;
 

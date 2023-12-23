@@ -1,8 +1,8 @@
-package ru.vsu.cs.fedoseev;
+package ru.vsu.cs.vlasov;
 
-import ru.vsu.cs.fedoseev.classes.Faculty;
-import ru.vsu.cs.fedoseev.classes.Institute;
-import ru.vsu.cs.fedoseev.classes.ResearchAssociate;
+import ru.vsu.cs.vlasov.classes.Faculty;
+import ru.vsu.cs.vlasov.classes.Institute;
+import ru.vsu.cs.vlasov.classes.ResearchAssociate;
 import java.io.PrintStream;
 import java.io.UnsupportedEncodingException;
 

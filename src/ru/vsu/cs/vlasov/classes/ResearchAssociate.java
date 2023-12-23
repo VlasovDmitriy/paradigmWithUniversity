@@ -1,6 +1,4 @@
-package ru.vsu.cs.fedoseev.classes;
-
-import ru.vsu.cs.fedoseev.classes.Employee;
+package ru.vsu.cs.vlasov.classes;
 
 public class ResearchAssociate extends Employee {
 
